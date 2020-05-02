@@ -1,0 +1,15 @@
+body {
+    background-color: #444444;
+    color: #dddddd;
+}
+
+h1{
+    background-color: #4d4d64;
+    color: orangered;
+    text-align: center;
+}
+h2{
+    background-color: #4d4d64;
+    color: green;
+    text-align: center;
+}
