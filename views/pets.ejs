@@ -1,0 +1,17 @@
+<%- include("partials/template/headers.ejs") %>
+<div>
+    <% animaldata.forEach(function(item){ %>
+    <div class="card-group">
+        <div class="card">
+            <img src="<%= item.imgURL %>" class="card-img-top" alt="...">
+            <div class="card-body">
+                <h5 id="pet-name" class="card-title"><%= item.name %></h5>
+                <p id="pet-desc" class="card-text"><%= item.description %>
+            </div>
+        </div>
+
+    </div>
+    <%   }) %>
+
+    <%- include("partials/template/footer.ejs") %>
+</div>

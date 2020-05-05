@@ -1,0 +1,28 @@
+[{  
+    "name":"Rocky",
+    "description":"An image of Rcky when he was a puppy",
+    "imgURL":"/images/Rocky.jpg"
+ },
+ {  
+    "name":"Max",
+    "description":"An image of Max when he was a puppy",
+    "imgURL":"/images/Max.jpg"
+ },  
+ {  
+    "name":"Luna",
+    "description":"An image of Luna when a puppy",
+    "imgURL":"/images/Luna.jpg"
+ }, 
+ {  
+    "name":"Smokey",
+    "description":"An image of Smokey when he was a kitten",
+    "imgURL":"/images/Smokey.jpg"
+ }, 
+ {  
+    "name":"Lucky",
+    "description":"An image of Lucky when he was a kitten",
+    "imgURL":"/images/Lucky.jpg"
+ }
+ 
+
+]

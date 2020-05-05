@@ -13,3 +13,32 @@ h2{
     color: green;
     text-align: center;
 }
+
+#pet-name, #pet-desc {
+    text-align: center;
+}
+    .card{
+        flex-wrap: wrap;
+    }
+    
+
+     html,
+     body {
+       height: 100%;
+     }
+     
+     #page-content {
+       flex: 1 0 auto;
+     }
+     
+     #sticky-footer {
+         scroll-behavior: initial;
+       flex-shrink: none;
+     }
+     
+     /* Other Classes for Page Styling */
+     
+     body {
+       background: #007bff;
+       background: linear-gradient(to right, #0062E6, #33AEFF);
+     }
